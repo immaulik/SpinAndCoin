@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570356486611",
+    "firebase_url": "https://freespinandcoin.firebaseio.com",
+    "project_id": "freespinandcoin",
+    "storage_bucket": "freespinandcoin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570356486611:android:7e7465aed1214d09",
+        "android_client_info": {
+          "package_name": "com.Nacxo.FreeSpinandCoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570356486611-5bmepsudm2nn2qh79e3st9ntfpu5c7qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Nacxo.FreeSpinandCoin",
+            "certificate_hash": "4d56df74853d084736e1c61a30565bcdd7d79024"
+          }
+        },
+        {
+          "client_id": "570356486611-ur8tikie5n30uk1ajv2ta34fh023sag4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyO1mFrOXw1LrdFwX2cA6nNQF54BdEfNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570356486611-ur8tikie5n30uk1ajv2ta34fh023sag4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
